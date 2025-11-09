@@ -12,15 +12,11 @@ redirect_from:
 业务内容 — 短篇漫画（Short Manga）
 ======
 我们公司以 WAGA COMIC 品牌在 Piccoma 与 LINE Manga 平台上发行了约 100 部短篇漫画（Short Manga / Webtoon）作品，其中多部作品的销售额突破 10 亿日元，广受读者好评。与此同时，和雅文化还作为 Piccoma 的长期合作伙伴，承担漫画内容的翻译与本地化外包工作，深度参与平台项目的制作与运营。在 [Piccoma 官方页面](https://piccoma.com/web/series/product/list/813/K)可查看我们旗下的部分代表作品。
+![WAGA_Short_Manga](/images/WAGA_Short_Manga.png)
 
-Getting started
+业务内容 — 真人短剧（Short Drama）
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+自2024年起，我们公司正式进军全球短剧领域，与全球前五大平台之一的 “ShortMax” 达成战略合作，并携手 “DramaBox”、“ReelShort” 等国际平台，全面拓展日本及海外市场渠道。仅在2024年，我们便参与制作了超过 200 部精品短剧，并与 30 余家知名品牌 深度合作，打造出多部现象级作品。代表作《大富豪的巴厘岛孙女》《复仇清洁工CEO·咲》等在日本及全球市场均创下破纪录的热度与销量，广受观众喜爱与媒体关注。凭借强大的内容策划力与制作实力，我们现已成为日本短剧产业中最具影响力与创新力的领军企业之一。
 
 Site-wide configuration
 ------
