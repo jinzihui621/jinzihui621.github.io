@@ -17,14 +17,17 @@ redirect_from:
 业务内容 — 真人短剧（Short Drama）
 ======
 自2024年起，我们公司正式进军全球短剧领域，与全球前五大平台之一的 “ShortMax” 达成战略合作，并携手 “DramaBox”、“ReelShort” 等国际平台，全面拓展日本及海外市场渠道。仅在2024年，我们便参与制作了超过 200 部精品短剧，并与 30 余家知名品牌 深度合作，打造出多部现象级作品。代表作《大富豪的巴厘岛孙女》《复仇清洁工CEO·咲》等在日本及全球市场均创下破纪录的热度与销量，广受观众喜爱与媒体关注。凭借强大的内容策划力与制作实力，我们现已成为日本短剧产业中最具影响力与创新力的领军企业之一。
+![WAGA_Short_Drama](/images/WAGA_Short_Drama.png)
 
-Site-wide configuration
+业务内容 — 短篇动画（Short Anime）
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+我们公司与日本知名IP企业联合出品的漫画《魔族》在 Piccoma 上线后，仅用一个月时间便成功推出 30 集短篇动画（Short Anime），实现了以普通动画 十分之一的制作周期 和 十分之一的成本 完成高质量作品的突破。借助 AI 技术 的创新应用，短篇动画正成为内容产业中增长最快的领域之一。WAGA 目前正与 中国CCTV旗下的动画制作公司 深度合作，共同打造更高品质、更具性价比的短篇动画内容。我们的短篇动画以 节奏紧凑、内容精炼、制作高效 为特色，兼具创意表达与商业潜力，尤其适合在移动端内容平台传播。通过整合 日本、韩国、中国的优质漫画IP资源，汇聚顶尖创作团队，并依托先进的制作体系与AI技术，我们致力于以 低成本、高速度、高品质 打造新时代的短篇动画生态。
+![WAGA_Short_Anime](/images/WAGA_Short_Anime.png)
 
-Create content & metadata
+业务内容 — 中央电视台动画项目（CCTV Anime）
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+由中国中央电视台（CCTV）主导制作，日本方面由 Takara Tomy（多美） 与 东京电视台（TV Tokyo） 共同参与，这是中日两国首次联合出品的动画电视系列——《动画三国志》。该作品在中国由 CCTV青少年频道 及全国主要动画频道同步播出，在日本则于 东京电视台周日早间黄金时段 连续播出一年，成为推动中日动画交流的重要里程碑，对两国动画产业的发展产生了深远影响。我们公司作为制片方之一，全程参与了项目的策划与制作，共同见证了这部跨国合作动画的诞生与成功。
+
 
 **Markdown generator**
 
