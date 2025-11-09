@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "移动内容 = Short【漫画 + 短剧 + 漫剧】+ AI"
 author_profile: true
 redirect_from: 
   - /about/
