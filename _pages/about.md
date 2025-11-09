@@ -7,20 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+移动内容的早期阶段以短篇漫画（网络漫画 / Web Toon）为主流，我们公司自2019年起进入该领域，积累了深厚的创作与制作经验。短篇漫画不仅推动了移动内容的发展，也与短剧和短动画形成了紧密的联动。自2023年起，短剧内容在中国市场迅速流行，2024年我们正式进入日本市场，凭借优质的作品与不断扩大的制作规模，已成长为行业领先企业，并持续巩固竞争优势。与此同时，随着AI技术的快速进步，短篇动画制作正迎来高速发展期，我们将于2025年正式布局短篇动画领域，通过与短剧及漫画的协同创作，融合AI技术，推动内容创新与业务的跨领域增长。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! jinzihui 123
-
-A data-driven personal website
+业务内容 — 短篇漫画（Short Manga）
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+我们公司以 WAGA COMIC 品牌在 Piccoma 与 LINE Manga 平台上发行了约 100 部短篇漫画（Short Manga / Webtoon）作品，其中多部作品的销售额突破 10 亿日元，广受读者好评。与此同时，和雅文化还作为 Piccoma 的长期合作伙伴，承担漫画内容的翻译与本地化外包工作，深度参与平台项目的制作与运营。在 [Piccoma 官方页面](https://piccoma.com/web/series/product/list/813/K)可查看我们旗下的部分代表作品。
 
 Getting started
 ======
