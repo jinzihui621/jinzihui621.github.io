@@ -24,17 +24,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "WAGA_Photo.jpg"
-  name             : "金光国"
-  pronouns         : # example: "she/her"  
+  name             : "金光国 ｜ Guangguo Jin"
+  pronouns         : "和雅文化CEO"  
   bio              : "以AI驱动创意生产，推动中日韩内容产业创新"
-  location         : "中国 北京"
+  location         : "北京市朝阳区悠乐汇E座2705室"
   employer         : "和雅（北京）文化传播有限公司"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : "手机：18601014278"
+  arxiv            : "微信：a39889586"
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
