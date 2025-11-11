@@ -29,18 +29,14 @@ redirect_from:
 由中国中央电视台（CCTV）主导制作，日本方面由 Takara Tomy（多美） 与 东京电视台（TV Tokyo） 共同参与，这是中日两国首次联合出品的动画电视系列——《动画三国志》。该作品在中国由 CCTV青少年频道 及全国主要动画频道同步播出，在日本则于 东京电视台周日早间黄金时段 连续播出一年，成为推动中日动画交流的重要里程碑，对两国动画产业的发展产生了深远影响。我们公司作为制片方之一，全程参与了项目的策划与制作，共同见证了这部跨国合作动画的诞生与成功。
 ![WAGA_CCTV](/images/WAGA_CCTV.png)
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+业务内容 - 电影事业
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+自2018年起，我们参与了中国高人气电影系列《唐人街探案》第三部——《唐人街探案3：东京MISSION》的日本拍摄工作，并积极推进与日本本地合作伙伴的深度合作与商业拓展。该项目不仅标志着中日影视合作的重要成果，也为双方在电影制作、文化交流及市场开拓等领域奠定了坚实基础。
+![WAGA_CCTV](/images/WAGA_Movie.png)
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
+业务内容 - 翻译出版
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+自2005年起，我们将日本著名企业家稻盛和夫先生的代表作《活法》翻译出版至中国，累计销量突破500万册，成为深受读者喜爱的畅销作品。同时，我们也将中国知名作品《水煮三国志》译介至日本市场，并取得了长期热销的优异成绩。此外，我们还出版了《诸葛孔明》系列共计22册，持续推动中日两国优秀文化与思想的交流传播。
+![WAGA_CCTV](/images/WAGA_Book.png)
+
+
