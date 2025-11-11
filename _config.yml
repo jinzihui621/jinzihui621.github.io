@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/WAGA_Photo.jpg"
+  avatar           : "WAGA_Photo.jpg"
   name             : "金光国"
   pronouns         : # example: "she/her"  
   bio              : "以AI驱动创意生产，推动中日韩内容产业创新"
