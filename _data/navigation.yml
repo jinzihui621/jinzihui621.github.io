@@ -9,7 +9,7 @@
 
 main:
   - title: "首页"
-    url: /publications/
+    url: /
 
   - title: "关于和雅"
     url: /talks/    
