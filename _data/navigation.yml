@@ -11,23 +11,23 @@ main:
   - title: "首页"
     url: /publications/
 
-  - title: "关于我们"
+  - title: "关于和雅"
     url: /talks/    
 
-  - title: "新闻动态"
+  - title: "产品"
     url: /teaching/    
     
-  - title: "联系我们"
+  - title: "新闻动态"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "联系我们"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
