@@ -14,17 +14,17 @@ main:
   - title: "关于和雅"
     url: /talks/    
 
-  - title: "产品"
+  - title: "业务内容"
     url: /teaching/    
     
-  - title: "新闻动态"
+  - title: "代表作品"
     url: /portfolio/
         
-  - title: "联系我们"
+  - title: "新闻动态"
     url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "加入我们"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
