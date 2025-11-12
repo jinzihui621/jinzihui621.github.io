@@ -12,31 +12,31 @@ redirect_from:
 业务内容 — 短篇漫画（Short Manga）
 ======
 我们公司以 WAGA COMIC 品牌在 Piccoma 与 LINE Manga 平台上发行了约 100 部短篇漫画（Short Manga / Webtoon）作品，其中多部作品的销售额突破 10 亿日元，广受读者好评。与此同时，和雅文化还作为 Piccoma 的长期合作伙伴，承担漫画内容的翻译与本地化外包工作，深度参与平台项目的制作与运营。在 [Piccoma 官方页面](https://piccoma.com/web/series/product/list/813/K)可查看我们旗下的部分代表作品。
-![WAGA_Short_Manga](/images/WAGA_Short_Manga.png)
+![WAGA_Short_Manga](/images/WAGA_Short_Manga.jpg)
 
 业务内容 — 真人短剧（Short Drama）
 ======
 自2024年起，我们公司正式进军全球短剧领域，与全球前五大平台之一的 “ShortMax” 达成战略合作，并携手 “DramaBox”、“ReelShort” 等国际平台，全面拓展日本及海外市场渠道。仅在2024年，我们便参与制作了超过 200 部精品短剧，并与 30 余家知名品牌 深度合作，打造出多部现象级作品。代表作《大富豪的巴厘岛孙女》《复仇清洁工CEO·咲》等在日本及全球市场均创下破纪录的热度与销量，广受观众喜爱与媒体关注。凭借强大的内容策划力与制作实力，我们现已成为日本短剧产业中最具影响力与创新力的领军企业之一。
-![WAGA_Short_Drama](/images/WAGA_Short_Drama.png)
+![WAGA_Short_Drama](/images/WAGA_Short_Drama.jpg)
 
 业务内容 — 短篇动画（Short Anime）
 ------
 我们公司与日本知名IP企业联合出品的漫画《魔族》在 Piccoma 上线后，仅用一个月时间便成功推出 30 集短篇动画（Short Anime），实现了以普通动画 十分之一的制作周期 和 十分之一的成本 完成高质量作品的突破。借助 AI 技术 的创新应用，短篇动画正成为内容产业中增长最快的领域之一。WAGA 目前正与 中国CCTV旗下的动画制作公司 深度合作，共同打造更高品质、更具性价比的短篇动画内容。我们的短篇动画以 节奏紧凑、内容精炼、制作高效 为特色，兼具创意表达与商业潜力，尤其适合在移动端内容平台传播。通过整合 日本、韩国、中国的优质漫画IP资源，汇聚顶尖创作团队，并依托先进的制作体系与AI技术，我们致力于以 低成本、高速度、高品质 打造新时代的短篇动画生态。
-![WAGA_Short_Anime](/images/WAGA_Short_Anime.png)
+![WAGA_Short_Anime](/images/WAGA_Short_Anime.jpg)
 
 业务内容 — 中央电视台动画项目（CCTV Anime）
 ------
 由中国中央电视台（CCTV）主导制作，日本方面由 Takara Tomy（多美） 与 东京电视台（TV Tokyo） 共同参与，这是中日两国首次联合出品的动画电视系列——《动画三国志》。该作品在中国由 CCTV青少年频道 及全国主要动画频道同步播出，在日本则于 东京电视台周日早间黄金时段 连续播出一年，成为推动中日动画交流的重要里程碑，对两国动画产业的发展产生了深远影响。我们公司作为制片方之一，全程参与了项目的策划与制作，共同见证了这部跨国合作动画的诞生与成功。
-![WAGA_CCTV](/images/WAGA_CCTV.png)
+![WAGA_CCTV](/images/WAGA_CCTV.jpg)
 
 业务内容 - 电影事业
 ------
 自2018年起，我们参与了中国高人气电影系列《唐人街探案》第三部——《唐人街探案3：东京MISSION》的日本拍摄工作，并积极推进与日本本地合作伙伴的深度合作与商业拓展。该项目不仅标志着中日影视合作的重要成果，也为双方在电影制作、文化交流及市场开拓等领域奠定了坚实基础。
-![WAGA_Movie](/images/WAGA_Movie.png)
+![WAGA_Movie](/images/WAGA_Movie.jpg)
 
 业务内容 - 翻译出版
 ------
 自2005年起，我们将日本著名企业家稻盛和夫先生的代表作《活法》翻译出版至中国，累计销量突破500万册，成为深受读者喜爱的畅销作品。同时，我们也将中国知名作品《水煮三国志》译介至日本市场，并取得了长期热销的优异成绩。此外，我们还出版了《诸葛孔明》系列共计22册，持续推动中日两国优秀文化与思想的交流传播。
-![WAGA_Book](/images/WAGA_Book.png)
+![WAGA_Book](/images/WAGA_Book.jpg)
 
 
