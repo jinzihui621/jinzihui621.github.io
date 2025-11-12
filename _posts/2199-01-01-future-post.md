@@ -2,6 +2,7 @@
 title: 'Meta短剧高管闭门午餐会及亚洲行业研讨会'
 date: 2025-10-15
 permalink: /posts/2012/08/blog-post-4/
+link: https://about.meta.com/newsroom/ 
 tags:
   - cool posts
   - category1
